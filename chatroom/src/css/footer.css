@@ -1,7 +1,7 @@
 .end-page{
     background: brown;
     color: white;
-    opacity: 100%;
+    opacity: 1.0;
     z-index: 1;
 }
 
