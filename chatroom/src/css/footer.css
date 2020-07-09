@@ -1,0 +1,11 @@
+.end-page{
+    background: brown;
+    color: white;
+    opacity: 100%;
+    z-index: 1;
+}
+
+.autor-tag{
+    color: white;
+    cursor: pointer;
+}

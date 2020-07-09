@@ -1,7 +1,5 @@
 import React from 'react';
 import Home from './common/home';
-import Registry from './chat/chatRegistry';
-import ChatRoom from './chat/chatRoom';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import ChatBody from './chat/chatBody'
 
