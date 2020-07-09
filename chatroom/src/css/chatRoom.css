@@ -1,0 +1,13 @@
+.chatInput{
+    border-top: 1px solid;
+}
+
+.messages-container{
+    max-height: 20em;
+    overflow: auto;
+}
+
+.chat-room{
+    max-width: 24em;
+    word-break: break-all;
+}
