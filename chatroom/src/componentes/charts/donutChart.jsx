@@ -29,15 +29,6 @@ class DonutChart extends React.Component{
         return total;
     }
 
-    /*componentToHex(c) {
-        var hex = c.toString(16);
-        return hex.length == 1 ? "0" + hex : hex;
-    }
-      
-    rgbToHex(r, g, b) {
-        return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
-    }*/
-
     drawChart(){
         var data = this.getData();
         var color = d3.scaleOrdinal()
